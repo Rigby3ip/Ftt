@@ -15,3 +15,4 @@ def ver_personagens():
 
 if __name__ == '__main__':
     app.run(debug=True)
+    
